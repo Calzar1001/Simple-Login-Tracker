@@ -1,4 +1,12 @@
-# Simple-Login-Tracker
-Java console program that logs an User's screen time.
+## Java App tracks Current time and outputs as .txt
 
-mit
+![](Sentinel480.gif)
+
+<!--  -->
+- ~~Make  Simple Java Time Tracker App~~
+- ~~Make Arduino Controlled Distance sensor and light meter~~
+## To do
+- Output arduino sensor information to Serial
+- Implement serial read in Java app.
+- input arduino time information,a
+MIT
